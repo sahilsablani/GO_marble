@@ -1,0 +1,4 @@
+# Ignore system-related files
+AppData/
+Documents/
+Cookies/
